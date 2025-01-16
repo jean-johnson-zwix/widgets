@@ -1,0 +1,41 @@
+.star{
+    color: rgb(247, 167, 180);
+    background-color: rgb(243, 241, 241);
+}
+.header{
+    margin-top: 12px !important;
+    color: rgb(236, 124, 142) !important;
+}
+.red{
+    background-color: rgb(245, 217, 217) !important;
+}
+.red-text{
+    color: red;
+}
+.green{
+    background-color: rgb(209, 247, 154) !important;
+}
+.green-text{
+    color: green;
+}
+.blue{
+    background-color: rgb(178, 212, 243) !important;
+}
+.blue-text{
+    color: rgb(0, 110, 255);
+}
+.selection{
+    background-color: rgb(243, 241, 241) !important;
+}
+.translate{
+    background-color: rgb(252, 217, 223) !important;
+}
+.menu{
+    background-color: rgb(235, 106, 127) !important;
+}
+a.item{
+    color: white !important;
+}
+a.item:hover{
+    background-color: rgb(214, 66, 91) !important;
+}
